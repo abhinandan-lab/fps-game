@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 5985b2fc949c41d4ca872b3867f291e4
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.000
+    second: {fileID: 2100000, guid: 8b5e66183df50a14f8c42a3b71bcea7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: cff7d4328d16ea548b1629b6cd85c812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 4d4619d9ff9300045b81c3b78ff79e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 0a556acc0b228094da20602b547d1d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 55032b93735f9fc4fb1fa8ae2c61fba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 95f05c05eb1a268448cef2d74a435041, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: hand_20190806b-right-rig_with_gun_v2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: 12.642122, y: 3.375504, z: 11.911859}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: Camera
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -7.3588915, y: 4.958309, z: 6.925791}
+      rotation: {x: 0.0906284, y: 0.8937962, z: -0.20997299, w: 0.38577998}
+      scale: {x: 100, y: 100.00001, z: 99.99999}
+    - name: Light.001
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -6.0452585, y: 21.118046, z: 11.537412}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: Light.002
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -4.091968, y: 13.873915, z: 11.304149}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: Light.003
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -16.31532, y: 8.495688, z: -19.655022}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: Light.004
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -5.5495896, y: -7.3630023, z: -8.661388}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: Light.005
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: 9.022173, y: 7.5756803, z: -15.692843}
+      rotation: {x: 0.13334405, y: -0.61075675, z: 0.319145, w: 0.71227944}
+      scale: {x: 100.00001, y: 100, z: 100.00001}
+    - name: HandRight
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: 0.03668587, y: 0.0047341874, z: -0.0035963447}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: 0.03668587, y: 0.0047341874, z: -0.0035963447}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Bone.arm
+      parentName: Armature
+      position: {x: -0.0004620377, y: 0.018336605, z: 0.00013851018}
+      rotation: {x: 0.5761458, y: 0.38545734, z: 0.6329859, w: 0.34468475}
+      scale: {x: 0.999936, y: 0.9999999, z: 0.9999159}
+    - name: Bone.wrist
+      parentName: Bone.arm
+      position: {x: 2.3283064e-12, y: 0.021673521, z: 2.561137e-11}
+      rotation: {x: 0.041386787, y: 0.69990474, z: 0.043338314, w: 0.71171784}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone.idx.1
+      parentName: Bone.wrist
+      position: {x: 0.0005516909, y: 0.015092766, z: 0.005099423}
+      rotation: {x: -0.051807664, y: -0.10500673, z: 0.06211808, w: 0.99117655}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Bone.idx.2
+      parentName: Bone.idx.1
+      position: {x: 5.9604643e-10, y: 0.0033812746, z: -0.0000000010058283}
+      rotation: {x: -0.051268212, y: 0.13320802, z: -0.6441786, w: 0.75143933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.inx.3
+      parentName: Bone.idx.2
+      position: {x: -5.401671e-10, y: 0.0038092937, z: -3.9581208e-10}
+      rotation: {x: 0.03602075, y: -0.015439431, z: -0.46025297, w: 0.8869224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.inx.3_end
+      parentName: Bone.inx.3
+      position: {x: -0, y: 0.004300271, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.md.1
+      parentName: Bone.wrist
+      position: {x: 0.00121875, y: 0.01567348, z: 0.001453309}
+      rotation: {x: 0.16291587, y: -0.1798688, z: -0.30842105, w: 0.91977286}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone.md.2
+      parentName: Bone.md.1
+      position: {x: -0.00000000129221, y: 0.0041277204, z: 7.4505804e-11}
+      rotation: {x: 0.04794946, y: 0.011666986, z: -0.48973414, w: 0.87047416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.md.3
+      parentName: Bone.md.2
+      position: {x: -9.126961e-10, y: 0.0042026136, z: -3.7252902e-11}
+      rotation: {x: 0.07335521, y: -0.06483958, z: -0.56759274, w: 0.81746763}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Bone.md.3_end
+      parentName: Bone.md.3
+      position: {x: -0, y: 0.0046653766, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone..rng.1
+      parentName: Bone.wrist
+      position: {x: 0.0011483371, y: 0.015389204, z: -0.0024552492}
+      rotation: {x: 0.022288589, y: -0.15914813, z: -0.68704957, w: 0.70861703}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone..rng..2
+      parentName: Bone..rng.1
+      position: {x: 1.862645e-10, y: 0.0042498894, z: 3.7252902e-11}
+      rotation: {x: 0.007885255, y: 0.0049211816, z: -0.42970628, w: 0.9029209}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone.rng.3
+      parentName: Bone..rng..2
+      position: {x: 0.0000000013550743, y: 0.0035714624, z: -5.5879353e-11}
+      rotation: {x: -0.028187638, y: -0.08868591, z: -0.47189847, w: 0.87672806}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Bone.rng.3_end
+      parentName: Bone.rng.3
+      position: {x: -0, y: 0.0040484313, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.pnk.1
+      parentName: Bone.wrist
+      position: {x: 0.0038913577, y: 0.014544114, z: -0.004329202}
+      rotation: {x: 0.7249477, y: 0.6471473, z: -0.16118586, w: 0.17225078}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Bone.pnk.2
+      parentName: Bone.pnk.1
+      position: {x: 0.0000000010151416, y: 0.0021136461, z: -1.7695129e-10}
+      rotation: {x: -0.038468327, y: 0.9985639, z: -0.009938887, w: -0.035937604}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Bone.pnk.3
+      parentName: Bone.pnk.2
+      position: {x: -1.4901161e-10, y: 0.0024638006, z: -4.4703483e-10}
+      rotation: {x: 0.14625596, y: 0.014023207, z: -0.26494455, w: 0.95300424}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.99999994}
+    - name: Bone.pnk.3_end
+      parentName: Bone.pnk.3
+      position: {x: -0, y: 0.0035032444, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.thb.1
+      parentName: Bone.wrist
+      position: {x: -0.0004596873, y: 0.0019404441, z: 0.004990263}
+      rotation: {x: -0.39764073, y: 0.5925017, z: 0.4396135, w: 0.54549396}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bone.thb.2
+      parentName: Bone.thb.1
+      position: {x: -0, y: 0.0043959203, z: -7.4505804e-11}
+      rotation: {x: 0.0115710115, y: 0.9197289, z: -0.12553637, w: 0.37176016}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Bone.thb.3
+      parentName: Bone.thb.2
+      position: {x: -0.000000001117587, y: 0.0055448147, z: 0}
+      rotation: {x: 0.050546996, y: -0.026358452, z: 0.15656704, w: 0.9860208}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Bone.thb.3_end
+      parentName: Bone.thb.3
+      position: {x: -0, y: 0.0044723838, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RevolverOnePiece
+      parentName: hand_20190806b-right-rig_with_gun_v2(Clone)
+      position: {x: -0.19292398, y: 0.91376114, z: 2.550873}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
